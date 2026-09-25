@@ -1,0 +1,2 @@
+# Optional acceleration. The implementation falls back to difflib when this is absent.
+rapidfuzz==3.13.0
